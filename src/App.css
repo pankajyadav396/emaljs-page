@@ -1,0 +1,13 @@
+.error-message {
+    color: red;
+    margin-top: 0;
+}
+
+.success-popup {
+    background-color: rgb(42, 71, 165);
+    padding: 50px;
+    position: fixed;
+}
+.overflow-hidden{
+    overflow: hidden;
+}
